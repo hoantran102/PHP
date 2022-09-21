@@ -4,5 +4,5 @@
 | Tên | Chức Vụ | Avata |
 | ------ | ------ | ------ |
 | Trần Khải Hoàn | Nhóm Trưởng| 
-| Nguyễn Huỳnh Hoàng Việt | Thành Viên| 
-| Nguyễn Huỳnh Hoàng Việt | Thành Viên| 
+| Nguyễn Phan Hữu Thọ | Thành Viên| 
+| Phù Quốc Khánh | Thành Viên| 
