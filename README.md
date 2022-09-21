@@ -1,6 +1,6 @@
 # TH-Git1
 ## Nhóm 13
-### DANH SÁCH THÀNH VIÊN 11
+### DANH SÁCH THÀNH VIÊN 
 | Tên | Chức Vụ | Avata |
 | ------ | ------ | ------ |
 | Trần Khải Hoàn | Nhóm Trưởng| 
