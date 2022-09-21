@@ -1,4 +1,8 @@
-# PHP
-Trần Khải Hoàn 59130790 
-Nguyễn Phan Hữu Thọ 61132696
-Phù Quốc Khánh
+# TH-Git1
+## Nhóm 13
+### DANH SÁCH THÀNH VIÊN
+| Tên | Chức Vụ | Avata |
+| ------ | ------ | ------ |
+| Trần Khải Hoàn | Nhóm Trưởng| 
+| Nguyễn Huỳnh Hoàng Việt | Thành Viên| 
+| Nguyễn Huỳnh Hoàng Việt | Thành Viên| 
